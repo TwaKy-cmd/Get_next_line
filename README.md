@@ -14,6 +14,10 @@ Resources :
 
 L'IA n'a pas etait utiliser pour ce projet !
 
+Algorythme choisi : 
+
+J'ai decouper ma fonction en 3 grosse parties, la premiere etant la fonction mere de get_next_line, jai ensuite creer un ft_stash sont job a lui est de gerer toute la stash, et ensuite j'ai utiliser une autre fonction pour mettre a jour ma stash afin de pouvoir toujours garder le reste de notre static et de ne pas l'ecraser, pour les fonctions supplementaires elles sont quand a elle dans le dossier get_next_line_utils.c, pour finir j'ai regrouper tout ce qu'il faut dans le get_next_line.h
+
 */
 
 /* English README
@@ -29,6 +33,10 @@ To be able to test the project, you will need to create a test.txt file and a ha
 Resources:
 
 The AI was not used for this project !
+
+Chosen algorhythm: 
+
+I divided my function into 3 large parts, the first being the main function of get_next_line, I then created a ft_stash to manage all the stash, and then I used another function to update my stash so that I can always keep the rest of our static and not overwrite it, for additional functions they are in the folder get_next_line_utils. c, to finish I grouped everything you need in the get_next_line. h
 
 */
 
